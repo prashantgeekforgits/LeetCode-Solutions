@@ -68,6 +68,16 @@ LeetCode-Solutions/
 * Problems Solved: 86+
 * Languages: Java, SQL
 
+Feel free to explore, use, and learn from the solutions in this repository. If you find an issue, have a question, or would like to discuss a problem-solving approach, feel free to open an issue or connect with me.
+
+As you know i have only pasted a very little portion the LeetCode problems. I am always interested in learning, collaborating, and helping fellow developers improve their understanding of Data Structures, Algorithms, and Software Development.
+
+Connect With Me
+GitHub: https://github.com/prashantgeekforgits
+Email: sharmaprashant6982@gmail.com
+
+If this repository helps you, consider giving it a ⭐.
+
 ## LeetCode_URL - https://leetcode.com/u/prashantsharmabmlmu2014/
 
 ## Author
